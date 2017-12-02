@@ -1,5 +1,6 @@
 var express = require('express');
 
+//SERVER
 // Create our app
 var app = express();
 const PORT = process.env.PORT || 3000;
